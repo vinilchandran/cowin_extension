@@ -6,10 +6,12 @@ chrome.runtime.onMessage.addListener(
   }
 );
 
-var refreshTime = 60000
-var calculationDelay = 10000
+var refreshTime = 60000;
+var calculationDelay = 10000;
+var alertMessage = "1. Keep this tab open\n2. Increase the system volume for hear alarm sound\n3. Don't allow system to sleep";
 
 function clickPlanet() {
+    alert(alertMessage);
     clickButton();
     var myInterval = setInterval(function(){
         clickButton(myInterval);
