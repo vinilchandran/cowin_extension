@@ -14,6 +14,6 @@ This is a chorme extension which will help you to get notified when the vaccinat
 - Don't close the browser tab
 
 
-## Working Explanation
+## Video Tutorial
 
 [![Tutorial](https://img.youtube.com/vi/3zLrCu_Sg4E/0.jpg)](https://www.youtube.com/watch?v=3zLrCu_Sg4E)
