@@ -12,3 +12,7 @@ This is a chorme extension which will help you to get notified when the vaccinat
 - Once you get the notification, you can login and book your slote.
 - Don't let your system to sleep
 - Don't close the browser tab
+
+
+## Working Explanation
+https://youtu.be/3zLrCu_Sg4E
