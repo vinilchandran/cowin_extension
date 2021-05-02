@@ -15,4 +15,5 @@ This is a chorme extension which will help you to get notified when the vaccinat
 
 
 ## Working Explanation
-https://youtu.be/3zLrCu_Sg4E
+
+[![Tutorial](https://img.youtube.com/vi/3zLrCu_Sg4E/0.jpg)](https://www.youtube.com/watch?v=3zLrCu_Sg4E)
